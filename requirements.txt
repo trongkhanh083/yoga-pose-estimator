@@ -1,0 +1,6 @@
+customtkinter
+opencv-python
+mediapipe
+numpy
+Pillow
+pyinstaller

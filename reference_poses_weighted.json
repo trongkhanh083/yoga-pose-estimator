@@ -1,0 +1,348 @@
+{
+    "Bhujangasana": {
+        "left_elbow": 175, "right_elbow": 175,
+        "left_shoulder": 0, "right_shoulder": 0,
+        "left_hip": 180, "right_hip": 180,
+        "left_knee": 170, "right_knee": 170,
+        "_weights": {
+            "left_hip": 3.0, "right_hip": 3.0,
+            "left_elbow": 2.0, "right_elbow": 2.0
+        }
+    },
+    "Setu Bandha Sarvangasana": {
+        "left_knee": 95, "right_knee": 95,
+        "left_hip": 115, "right_hip": 115,
+        "left_ankle": 90, "right_ankle": 90,
+        "left_elbow": 180, "right_elbow": 180,
+        "left_shoulder": 15, "right_shoulder": 15,
+        "_weights": {
+            "left_knee": 3.0, "right_knee": 3.0,
+            "left_hip": 3.0, "right_hip": 3.0
+        }
+    },
+    "Urdhva Dhanurasana": {
+        "left_elbow": 170, "right_elbow": 170,
+        "left_shoulder": 170, "right_shoulder": 170,
+        "left_hip": 145, "right_hip": 145,
+        "left_knee": 105, "right_knee": 105,
+        "left_ankle": 105, "right_ankle": 105,
+        "_weights": {
+            "left_shoulder": 3.0, "right_shoulder": 3.0,
+            "left_hip": 2.0, "right_hip": 2.0,
+            "left_knee": 2.0, "right_knee": 2.0
+        }
+    },
+    "Urdhva Mukha Svanasana": {
+        "left_elbow": 175, "right_elbow": 175,
+        "left_shoulder": 15, "right_shoulder": 15,
+        "left_hip": 170, "right_hip": 170,
+        "left_knee": 180, "right_knee": 180,
+        "left_ankle": 120, "right_ankle": 120,
+        "_weights": {
+            "left_shoulder": 3.0, "right_shoulder": 3.0,
+            "left_knee": 2.0, "right_knee": 2.0,
+            "left_elbow": 2.0, "right_elbow": 2.0
+        }
+    },
+    "Ustrasana": {
+        "left_knee": 90, "right_knee": 90,
+        "left_hip": 155, "right_hip": 155,
+        "left_shoulder": 150, "right_shoulder": 150,
+        "left_elbow": 110, "right_elbow": 110,
+        "left_ankle": 90, "right_ankle": 90,
+        "_weights": {
+            "left_hip": 3.0, "right_hip": 3.0,
+            "left_shoulder": 2.0, "right_shoulder": 2.0,
+            "left_knee": 2.0, "right_knee": 2.0
+        }
+    },
+    "Adho Mukha Vriksasana": {
+        "left_elbow": 180, "right_elbow": 180,
+        "left_shoulder": 180, "right_shoulder": 180,
+        "left_hip": 180, "right_hip": 180,
+        "left_knee": 180, "right_knee": 180,
+        "left_ankle": 130, "right_ankle": 130,
+        "_weights": {
+            "left_elbow": 3.0, "right_elbow": 3.0,
+            "left_shoulder": 3.0, "right_shoulder": 3.0,
+            "left_hip": 3.0, "right_hip": 3.0,
+            "left_knee": 3.0, "right_knee": 3.0
+        }
+    },
+    "Bakasana": {
+        "left_elbow": 90, "right_elbow": 90,
+        "left_shoulder": 120, "right_shoulder": 120,
+        "left_hip": 45, "right_hip": 45,
+        "left_knee": 45, "right_knee": 45,
+        "left_ankle": 130, "right_ankle": 130,
+        "_weights": {
+            "left_elbow": 3.0, "right_elbow": 3.0,
+            "left_hip": 2.0, "right_hip": 2.0,
+            "left_knee": 2.0, "right_knee": 2.0
+        }
+    },
+    "Pincha Mayurasana": {
+        "left_elbow": 90, "right_elbow": 90,
+        "left_shoulder": 175, "right_shoulder": 175,
+        "left_hip": 180, "right_hip": 180,
+        "left_knee": 180, "right_knee": 180,
+        "left_ankle": 130, "right_ankle": 130,
+        "_weights": {
+            "left_elbow": 3.0, "right_elbow": 3.0,
+            "left_shoulder": 2.0, "right_shoulder": 2.0,
+            "left_hip": 2.0, "right_hip": 2.0
+        }
+    },
+    "Salamba Sirsasana": {
+        "left_elbow": 90, "right_elbow": 90,
+        "left_shoulder": 180, "right_shoulder": 180,
+        "left_hip": 175, "right_hip": 175,
+        "left_knee": 175, "right_knee": 175,
+        "left_ankle": 120, "right_ankle": 120,
+        "_weights": {
+            "left_shoulder": 3.0, "right_shoulder": 3.0,
+            "left_hip": 2.0, "right_hip": 2.0,
+            "left_elbow": 2.0, "right_elbow": 2.0
+        }
+    },
+    "Vasisthasana": {
+        "left_elbow": 175, "right_elbow": 175,
+        "left_shoulder": 180, "right_shoulder": 10,
+        "left_hip": 180, "right_hip": 180,
+        "left_knee": 180, "right_knee": 180,
+        "left_ankle": 95, "right_ankle": 95,
+        "_weights": {
+            "right_shoulder": 3.0,
+            "left_hip": 2.0, "right_hip": 2.0,
+            "left_knee": 2.0, "right_knee": 2.0
+        }
+    },
+    "Ananda Balasana": {
+        "left_knee": 90, "right_knee": 90,
+        "left_hip": 75, "right_hip": 75,
+        "left_elbow": 170, "right_elbow": 170,
+        "left_shoulder": 175, "right_shoulder": 175,
+        "_weights": {
+            "left_knee": 3.0, "right_knee": 3.0,
+            "left_hip": 3.0, "right_hip": 3.0
+        }
+    },
+    "Balasana": {
+        "left_knee": 30, "right_knee": 30,
+        "left_hip": 35, "right_hip": 35,
+        "left_shoulder": 170, "right_shoulder": 170,
+        "left_elbow": 180, "right_elbow": 180,
+        "_weights": {
+            "left_knee": 3.0, "right_knee": 3.0,
+            "left_hip": 3.0, "right_hip": 3.0
+        }
+    },
+    "Savasana": {
+        "left_elbow": 180, "right_elbow": 180,
+        "left_shoulder": 180, "right_shoulder": 180,
+        "left_hip": 175, "right_hip": 175,
+        "left_knee": 175, "right_knee": 175,
+        "left_ankle": 90, "right_ankle": 90,
+        "_weights": {
+            "left_hip": 2.0, "right_hip": 2.0,
+            "left_knee": 2.0, "right_knee": 2.0
+        }
+    },
+    "Supta Matsyendrasana": {
+        "left_knee": 175, "right_knee": 115,
+        "left_hip": 175, "right_hip": 60,
+        "left_shoulder": 175, "right_shoulder": 90,
+        "left_elbow": 180, "right_elbow": 180,
+        "_weights": {
+            "right_hip": 3.0,
+            "right_shoulder": 3.0,
+            "right_knee": 2.0
+        }
+    },
+    "Baddha Konasana": {
+        "left_knee": 50, "right_knee": 50,
+        "left_hip": 100, "right_hip": 100,
+        "left_elbow": 145, "right_elbow": 145,
+        "_weights": {
+            "left_knee": 3.0, "right_knee": 3.0,
+            "left_hip": 2.0, "right_hip": 2.0
+        }
+    },
+    "Dandasana": {
+        "left_knee": 180, "right_knee": 180,
+        "left_hip": 180, "right_hip": 180,
+        "left_shoulder": 175, "right_shoulder": 175,
+        "left_elbow": 175, "right_elbow": 175,
+        "left_ankle": 90, "right_ankle": 90,
+        "_weights": {
+            "left_knee": 3.0, "right_knee": 3.0,
+            "left_hip": 3.0, "right_hip": 3.0
+        }
+    },
+    "Janu Sirsasana": {
+        "left_knee": 40, "right_knee": 180,
+        "left_hip": 145, "right_hip": 60,
+        "left_shoulder": 170, "right_shoulder": 170,
+        "left_elbow": 175, "right_elbow": 175,
+        "_weights": {
+            "right_knee": 3.0,
+            "left_knee": 3.0,
+            "right_hip": 2.0
+        }
+    },
+    "Paschimottanasana": {
+        "left_knee": 180, "right_knee": 180,
+        "left_hip": 60, "right_hip": 60,
+        "left_shoulder": 170, "right_shoulder": 170,
+        "left_elbow": 175, "right_elbow": 175,
+        "left_ankle": 90, "right_ankle": 90,
+        "_weights": {
+            "left_knee": 3.0, "right_knee": 3.0,
+            "left_hip": 3.0, "right_hip": 3.0
+        }
+    },
+    "Sukhasana": {
+        "left_knee": 120, "right_knee": 120,
+        "left_hip": 100, "right_hip": 100,
+        "left_shoulder": 50, "right_shoulder": 50,
+        "left_elbow": 145, "right_elbow": 145,
+        "_weights": {
+            "left_knee": 2.0, "right_knee": 2.0,
+            "left_hip": 2.0, "right_hip": 2.0
+        }
+    },
+    "Adho Mukha Svanasana": {
+        "left_elbow": 180, "right_elbow": 180,
+        "left_shoulder": 175, "right_shoulder": 175,
+        "left_hip": 125, "right_hip": 125,
+        "left_knee": 175, "right_knee": 175,
+        "left_ankle": 75, "right_ankle": 75,
+        "_weights": {
+            "left_hip": 3.0, "right_hip": 3.0,
+            "left_knee": 2.0, "right_knee": 2.0,
+            "left_elbow": 2.0, "right_elbow": 2.0,
+            "left_shoulder": 2.0, "right_shoulder": 2.0
+        }
+    },
+    "Anjaneyasana": {
+        "left_knee": 100, "right_knee": 90,
+        "left_hip": 150, "right_hip": 170,
+        "left_shoulder": 175, "right_shoulder": 175,
+        "left_elbow": 180, "right_elbow": 180,
+        "_weights": {
+            "left_knee": 3.0,
+            "right_hip": 2.0,
+            "left_shoulder": 1.5, "right_shoulder": 1.5
+        }
+    },
+    "Ardha Chandrasana": {
+        "left_knee": 180, "right_knee": 180,
+        "left_hip": 175, "right_hip": 175,
+        "left_shoulder": 175, "right_shoulder": 60,
+        "left_elbow": 175, "right_elbow": 175,
+        "left_ankle": 95, "right_ankle": 95,
+        "_weights": {
+            "right_knee": 3.0,
+            "left_hip": 2.0, "right_hip": 2.0,
+            "left_shoulder": 2.0
+        }
+    },
+    "Tadasana": {
+        "left_elbow": 180, "right_elbow": 180,
+        "left_shoulder": 5, "right_shoulder": 5,
+        "left_knee": 180, "right_knee": 180,
+        "left_hip": 175, "right_hip": 175,
+        "left_ankle": 90, "right_ankle": 90,
+        "_weights": {
+            "left_knee": 2.0, "right_knee": 2.0,
+            "left_hip": 2.0, "right_hip": 2.0
+        }
+    },
+    "Utkatasana": {
+        "left_knee": 95, "right_knee": 95,
+        "left_hip": 80, "right_hip": 80,
+        "left_shoulder": 175, "right_shoulder": 175,
+        "left_elbow": 180, "right_elbow": 180,
+        "_weights": {
+            "left_knee": 3.0, "right_knee": 3.0,
+            "left_hip": 3.0, "right_hip": 3.0
+        }
+    },
+    "Utthita Parsvakonasana": {
+        "left_knee": 90, "right_knee": 180,
+        "left_hip": 60, "right_hip": 180,
+        "left_elbow": 95, "right_elbow": 180,
+        "left_shoulder": 55, "right_shoulder": 175,
+        "_weights": {
+            "left_knee": 3.0,
+            "right_knee": 2.0,
+            "right_shoulder": 2.0
+        }
+    },
+    "Utthita Trikonasana": {
+        "left_knee": 175, "right_knee": 175,
+        "left_hip": 175, "right_hip": 175,
+        "left_shoulder": 50, "right_shoulder": 175,
+        "left_elbow": 175, "right_elbow": 175,
+        "left_ankle": 90, "right_ankle": 90,
+        "_weights": {
+            "left_knee": 3.0, "right_knee": 3.0,
+            "right_shoulder": 2.0
+        }
+    },
+    "Virabhadrasana I": {
+        "left_elbow": 180, "right_elbow": 180,
+        "left_shoulder": 175, "right_shoulder": 175,
+        "left_knee": 95, "right_knee": 175,
+        "left_hip": 95, "right_hip": 170,
+        "_weights": {
+            "left_knee": 3.0,
+            "right_knee": 2.0,
+            "right_hip": 2.0
+        }
+    },
+    "Virabhadrasana II": {
+        "left_elbow": 180, "right_elbow": 180,
+        "left_shoulder": 95, "right_shoulder": 95,
+        "left_knee": 95, "right_knee": 180,
+        "left_hip": 145, "right_hip": 180,
+        "_weights": {
+            "left_knee": 3.0,
+            "right_knee": 2.0,
+            "left_shoulder": 2.0,
+            "right_shoulder": 2.0
+        }
+    },
+    "Vrksasana": {
+        "left_knee": 120, "right_knee": 175,
+        "left_hip": 165, "right_hip": 180,
+        "left_shoulder": 175, "right_shoulder": 175,
+        "left_elbow": 180, "right_elbow": 180,
+        "_weights": {
+            "left_knee": 3.0,
+            "right_knee": 2.0,
+            "right_hip": 2.0
+        }
+    },
+    "Ardha Matsyendrasana": {
+        "left_knee": 35, "right_knee": 55,
+        "left_hip": 115, "right_hip": 65,
+        "right_elbow": 170,
+        "left_shoulder": 135,
+        "_weights": {
+            "right_hip": 2.0,
+            "left_shoulder": 2.0
+        }
+    },
+    "Parivrtta Trikonasana": {
+        "left_knee": 175, "right_knee": 175,
+        "left_hip": 175, "right_hip": 175,
+        "left_shoulder": 175, "right_shoulder": 175,
+        "left_elbow": 180, "right_elbow": 180,
+        "left_ankle": 95, "right_ankle": 95,
+        "_weights": {
+            "left_knee": 3.0, "right_knee": 3.0,
+            "left_shoulder": 2.0, "right_shoulder": 2.0
+        }
+    }
+}
