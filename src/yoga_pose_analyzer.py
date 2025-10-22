@@ -1,4 +1,4 @@
-from pose_detector import PoseDetector, calculate_angle, calculate_angle_3d
+from src.pose_detector import PoseDetector, calculate_angle, calculate_angle_3d
 
 class YogaPoseAnalyzer:
     def __init__(self, static_image_mode=True):

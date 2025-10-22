@@ -5,9 +5,9 @@ import customtkinter as ctk
 from tkinter import filedialog, messagebox
 from PIL import Image
 
-from pose_classifier import PoseClassifier
-from yoga_pose_analyzer import YogaPoseAnalyzer
-from styles import AppStyles
+from src.pose_classifier import PoseClassifier
+from src.yoga_pose_analyzer import YogaPoseAnalyzer
+from config.styles import AppStyles
 
 if getattr(sys, 'frozen', False):
     # Running as bundled executable

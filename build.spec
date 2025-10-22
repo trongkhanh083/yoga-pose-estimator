@@ -13,7 +13,7 @@ except:
     mediapipe_path = ""
 
 a = Analysis(
-    ['yoga_pose_estimator.py'],
+    ['yoga_pose_gui.py'],
     pathex=[os.getcwd()],
     binaries=[],
     datas=[
@@ -27,10 +27,10 @@ a = Analysis(
         (os.path.join(mediapipe_path, 'modules/pose_detection/pose_detection.tflite'), 'mediapipe/modules/pose_detection/'),
         
         # Add your local Python modules
-        ('pose_classifier.py', '.'),
-        ('yoga_pose_analyzer.py', '.'),
-        ('styles.py', '.'),
-        ('pose_detector.py', '.'),
+        ('src/pose_classifier.py', 'src/pose_classifier.py'),
+        ('src/yoga_pose_analyzer.py', 'src/yoga_pose_analyzer.py'),
+        ('config/styles.py', 'config/styles.py'),
+        ('src/pose_detector.py', 'src/pose_detector.py'),
     ],
     hiddenimports=[
         'cv2', 'PIL', 'PIL.Image', 'PIL.ImageTk', 'PIL._tkinter_finder', 
